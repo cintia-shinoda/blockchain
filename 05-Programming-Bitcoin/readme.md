@@ -3,6 +3,7 @@
 ## Repo's Structure
 ```bash
 ├── ch01/
+│   ├─── ch01.ipynb
 │
 ├── venv/                   # Virtual Environment
 │

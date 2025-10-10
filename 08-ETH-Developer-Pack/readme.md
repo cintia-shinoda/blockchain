@@ -1,11 +1,11 @@
 # Ethereum Developer Pack
 
-https://www.youtube.com/@ETHKipu
+<!-- https://www.youtube.com/@ETHKipu -->
 <!-- Instrutora: Solange Gueiros -->
 
 | # | Data |  |
 |:---:|:---:|:---|
-| 01 | 29/09/2025 | [Introdução a Ethereum](https://github.com/cintia-shinoda/blockchain/tree/main/08-ETH-Developer-Pack/Introducao) |
+| 01 | 29/09/2025 | [Introdução a Ethereum](https://github.com/cintia-shinoda/blockchain/tree/main/08-ETH-Developer-Pack/Introducao.md) |
 | 02 | 30/09/2025 | [Fundamentos de Solidity](https://github.com/cintia-shinoda/blockchain/tree/main/08-ETH-Developer-Pack/Fundamentos-de-Solidity) |
 | 03 | 01/10/2025 | [Tokens e Oracles](https://github.com/cintia-shinoda/blockchain/tree/main/08-ETH-Developer-Pack/Tokens-e-Oracles) |
 | 04 | 02/12/2025 | [Fundamentos de Ethereum e Projeto Prático](https://github.com/cintia-shinoda/blockchain/tree/main/08-ETH-Developer-Pack/Fundamentos-de-ETH-e-Projeto-Pratico) |

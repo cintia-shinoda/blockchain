@@ -32,8 +32,35 @@ Instrutora: Solange Gueiros (Sol)
 
 ### Transações
 - para transferir Ethers (ETH)
-- para publicar um smart contract (deploy)
+- para publicar um smart contract (*deploy*)
 - para executar alguma função de um smart contract já publicado
 
 
 ### Contratos Inteligentes e Fundamentos de Solidity
+#### Contratos Inteligentes (*Smart Contracts*)
+- programas computacionais
+- publicados e executados no ambiente de uma blockchain
+- imutáveis -> seguro
+- autônomos (quando iniciado / chamado)
+- sem intermediários
+
+#### *Smart Contracts* no Ethereum
+- compilados para a VM do Ethereum (EVM) e em seguida, gravados no blockchain
+    - escrito em Solididy
+    - compilado para *bytecode*
+
+#### O que é imutável no *Smart Contract*?
+- não pode corrigir o código!
+- o smart contract pode ter funções para alterar dados
+- não pode alterar o histórico: 
+    - A informação pode ser registrada em um bloco
+    - e pode ser apagada em outro
+    - fica o histórico (auditoria)
+
+## *Wallet* (Carteira)
+- gerenciador de chaves usado para administrar criptomoedas ou tokens
+- autorizar transações e interagir com páginas web ou aplicações descentralizadas (dApps)
+- assinar mensagens demostrando que é o proprietário de um endereço da sua carteira
+
+- Obs: Criptomoeda x Token
+    - criptomoeda: token nativo da rede

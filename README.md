@@ -16,13 +16,14 @@
 | 06 | Course | [PyChain](https://github.com/cintia-shinoda/blockchain/tree/main/06-PyChain) | Prandiano | ![100%](https://geps.dev/progress/100) |
 | 07 | Course | [Introdução a Blockchains e outras DLTs](https://github.com/cintia-shinoda/blockchain/tree/main/07-Intro-Blockchain-e-outras-DLTs) |  | ![0%](https://geps.dev/progress/0) |
 | 08 | Course |[ETH Developer Pack](https://github.com/cintia-shinoda/blockchain/tree/main/08-ETH-Developer-Pack) |  | ![0%](https://geps.dev/progress/0) |
+| 09 | Bootcamp | Introdução ao CRE |  | ![0%](https://geps.dev/progress/0)
 
 <br>
 
 
 ---
 
-   Copyright 2025 Cintia I. Shinoda
+   Copyright 2025-2026 Cintia I. Shinoda
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
